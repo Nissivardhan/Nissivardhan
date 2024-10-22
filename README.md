@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone. I'm Nissi vardhan
+Hey everyone, I'm Nissi vardhan
 
 
 # 💻 Tech Stack:
