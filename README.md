@@ -1,12 +1,12 @@
 ### Hi there, I'm Nissi Vardhan Koppanathi 👋
 
-[cite_start]I'm an **Aspiring DevOps Engineer**  with hands-on experience in cloud infrastructure, CI/CD automation, and container orchestration through projects and internships. [cite_start]I'm passionate about automating workflows and building reliable, scalable DevOps solutions. 
+I'm an **Aspiring DevOps Engineer** with hands-on experience in cloud infrastructure, CI/CD automation, and container orchestration through projects and internships. [cite_start]I'm passionate about automating workflows and building reliable, scalable DevOps solutions.
 
-- 🔭 I’m currently focused on **Azure DevOps practices** and exploring advanced **Kubernetes** deployments, building upon my recent internship experiences.
-- 🌱 I’m currently diving deeper into **Python scripting for automation** and expanding my knowledge of **AWS services**.
+- [cite_start]🔭 I’m currently focused on **Azure DevOps practices** and exploring advanced **Kubernetes** deployments, building upon my recent internship experiences.
+- [cite_start]🌱 I’m currently diving deeper into **Python scripting for automation** and expanding my knowledge of **AWS services**.
 - 👯 I’m looking to collaborate on **DevOps projects involving cloud infrastructure (Azure/AWS), CI/CD pipelines, and containerized applications**.
-- 💬 Ask me about **Azure services, Docker, Kubernetes, Jenkins, or setting up monitoring with Prometheus and Grafana**.
-- [cite_start]⚡ Fun fact: I've also tinkered with **Custom Android ROM Development**, optimizing system performance! 
+- [cite_start]💬 Ask me about **Azure services, Docker, Kubernetes, Jenkins, or setting up monitoring with Prometheus and Grafana**.
+- [cite_start]⚡ Fun fact: I've also tinkered with **Custom Android ROM Development**, focusing on system optimization and feature integration!
 
 ---
 
@@ -46,19 +46,19 @@
 
 ### My Latest Projects & Experience Highlights:
 
--   [cite_start]**Learning Management System (LMS) Deployment:** Deployed and managed Azure services (VMs, PostgreSQL, Web Apps) [cite: 5][cite_start], built CI/CD pipelines in Azure with GitHub integration [cite: 7][cite_start], and containerized/deployed applications using Docker and Kubernetes. [cite_start]Implemented Prometheus and Grafana for monitoring. 
--   [cite_start]**DevOps Intern @ Digital Edify:** Gained hands-on experience in configuring Linux environments [cite: 6][cite_start], provisioning infrastructure with Terraform, and automating configurations with Ansible.  [cite_start]Configured AKS Cluster Autoscaler and Horizontal Pod Autoscaling (HPA).
--   [cite_start]**Cloud Intern (AWS):** Explored core AWS services (EC2, S3, IAM, CloudWatch) and gained experience in deploying cloud-native applications. 
+-   [cite_start]**Learning Management System (LMS) Deployment:** As a DevOps Intern, I set up CI/CD pipelines and deployed the LMS backend/frontend using Docker and Kubernetes to automate deployments. [cite_start]I provisioned VMs using Terraform and configured infrastructure with Ansible. [cite_start]Integrated Prometheus and Grafana for real-time monitoring and performance analysis.
+-   [cite_start]**DevOps Intern @ Digital Edify (Sep 2024 - Mar 2025):** Deployed and managed Azure services (VMs, PostgreSQL, Web Apps) to host LMS solutions, improving system scalability. [cite_start]Configured Linux environments, managing user access, processes, and resource utilization. [cite_start]Built and maintained CI/CD pipelines in Azure with GitHub integration. [cite_start]Implemented Kubernetes RBAC for secure access control and configured AKS Cluster Autoscaler and Horizontal Pod Autoscaling (HPA).
+-   [cite_start]**Cloud Intern (AWS) @ Techplement (Mar 2025 - Apr 2025):** Explored core AWS services (EC2, S3, IAM, CloudWatch) and gained experience in deploying cloud-native applications.
 
 ---
 
 ### Certifications:
 
--   **Microsoft Certified: Azure Fundamentals (AZ-900)**
--   Azure DevOps Course Certification - Digital Edify
--   Azure DevOps Internship Certificate - Digital Edify
--   Programming for Everybody (Getting Started with Python) - University of Michigan (Coursera)
--   Cloud AWS Internship Certificate - Techplement
+-   [cite_start]**Microsoft Certified: Azure Fundamentals (AZ-900)** 
+-   [cite_start]Azure DevOps Course Certification - Digital Edify (Sep 2024 - Mar 2025) 
+-   [cite_start]Azure DevOps Internship Certificate - Digital Edify (Mar 2025 - May 2025) 
+-   [cite_start]Programming for Everybody (Getting Started with Python) - University of Michigan (via Coursera), Nov 2023 
+-   [cite_start]Cloud AWS Internship - Techplement (Mar 2025 - Apr 2025) 
 
 ---
 
