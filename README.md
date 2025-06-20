@@ -54,7 +54,7 @@ I'm an **Aspiring DevOps Engineer** with hands-on experience in cloud infrastruc
 
 ### Certifications:
 
--   **Microsoft Certified: Azure Fundamentals (AZ-900)**
+-   Microsoft Certified: Azure Fundamentals (AZ-900)
 -   Azure DevOps Course Certification - Digital Edify (Sep 2024 - Mar 2025)
 -   Azure DevOps Internship Certificate - Digital Edify (Mar 2025 - May 2025)
 -   Programming for Everybody (Getting Started with Python) - University of Michigan (via Coursera), Nov 2023
