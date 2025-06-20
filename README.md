@@ -1,12 +1,12 @@
 ### Hi there, I'm Nissi Vardhan Koppanathi 👋
 
-I'm an **Aspiring DevOps Engineer** with hands-on experience in cloud infrastructure, CI/CD automation, and container orchestration through projects and internships. [cite_start]I'm passionate about automating workflows and building reliable, scalable DevOps solutions.
+I'm an **Aspiring DevOps Engineer** with hands-on experience in cloud infrastructure, CI/CD automation, and container orchestration through projects and internships. I'm passionate about automating workflows and building reliable, scalable DevOps solutions.
 
-- [cite_start]🔭 I’m currently focused on **Azure DevOps practices** and exploring advanced **Kubernetes** deployments, building upon my recent internship experiences.
-- [cite_start]🌱 I’m currently diving deeper into **Python scripting for automation** and expanding my knowledge of **AWS services**.
+- 🔭 I’m currently focused on **Azure DevOps practices** and exploring advanced **Kubernetes** deployments, building upon my recent internship experiences.
+- 🌱 I’m currently diving deeper into **Python scripting for automation** and expanding my knowledge of **AWS services**.
 - 👯 I’m looking to collaborate on **DevOps projects involving cloud infrastructure (Azure/AWS), CI/CD pipelines, and containerized applications**.
-- [cite_start]💬 Ask me about **Azure services, Docker, Kubernetes, Jenkins, or setting up monitoring with Prometheus and Grafana**.
-- [cite_start]⚡ Fun fact: I've also tinkered with **Custom Android ROM Development**, focusing on system optimization and feature integration!
+- 💬 Ask me about **Azure services, Docker, Kubernetes, Jenkins, or setting up monitoring with Prometheus and Grafana**.
+- ⚡ Fun fact: I've also tinkered with **Custom Android ROM Development**, focusing on system optimization and feature integration!
 
 ---
 
@@ -46,19 +46,19 @@ I'm an **Aspiring DevOps Engineer** with hands-on experience in cloud infrastruc
 
 ### My Latest Projects & Experience Highlights:
 
--   [cite_start]**Learning Management System (LMS) Deployment:** As a DevOps Intern, I set up CI/CD pipelines and deployed the LMS backend/frontend using Docker and Kubernetes to automate deployments. [cite_start]I provisioned VMs using Terraform and configured infrastructure with Ansible. [cite_start]Integrated Prometheus and Grafana for real-time monitoring and performance analysis.
--   [cite_start]**DevOps Intern @ Digital Edify (Sep 2024 - Mar 2025):** Deployed and managed Azure services (VMs, PostgreSQL, Web Apps) to host LMS solutions, improving system scalability. [cite_start]Configured Linux environments, managing user access, processes, and resource utilization. [cite_start]Built and maintained CI/CD pipelines in Azure with GitHub integration. [cite_start]Implemented Kubernetes RBAC for secure access control and configured AKS Cluster Autoscaler and Horizontal Pod Autoscaling (HPA).
--   [cite_start]**Cloud Intern (AWS) @ Techplement (Mar 2025 - Apr 2025):** Explored core AWS services (EC2, S3, IAM, CloudWatch) and gained experience in deploying cloud-native applications.
+-   **Learning Management System (LMS) Deployment:** As a DevOps Intern, I set up CI/CD pipelines and deployed the LMS backend/frontend using Docker and Kubernetes to automate deployments. I provisioned VMs using Terraform and configured infrastructure with Ansible. Integrated Prometheus and Grafana for real-time monitoring and performance analysis.
+-   **DevOps Intern @ Digital Edify (Sep 2024 - Mar 2025):** Deployed and managed Azure services (VMs, PostgreSQL, Web Apps) to host LMS solutions, improving system scalability. Configured Linux environments, managing user access, processes, and resource utilization. Built and maintained CI/CD pipelines in Azure with GitHub integration. Implemented Kubernetes RBAC for secure access control and configured AKS Cluster Autoscaler and Horizontal Pod Autoscaling (HPA).
+-   **Cloud Intern (AWS) @ Techplement (Mar 2025 - Apr 2025):** Explored core AWS services (EC2, S3, IAM, CloudWatch) and gained experience in deploying cloud-native applications.
 
 ---
 
 ### Certifications:
 
--   [cite_start]**Microsoft Certified: Azure Fundamentals (AZ-900)** 
--   [cite_start]Azure DevOps Course Certification - Digital Edify (Sep 2024 - Mar 2025) 
--   [cite_start]Azure DevOps Internship Certificate - Digital Edify (Mar 2025 - May 2025) 
--   [cite_start]Programming for Everybody (Getting Started with Python) - University of Michigan (via Coursera), Nov 2023 
--   [cite_start]Cloud AWS Internship - Techplement (Mar 2025 - Apr 2025) 
+-   **Microsoft Certified: Azure Fundamentals (AZ-900)**
+-   Azure DevOps Course Certification - Digital Edify (Sep 2024 - Mar 2025)
+-   Azure DevOps Internship Certificate - Digital Edify (Mar 2025 - May 2025)
+-   Programming for Everybody (Getting Started with Python) - University of Michigan (via Coursera), Nov 2023
+-   Cloud AWS Internship - Techplement (Mar 2025 - Apr 2025)
 
 ---
 
